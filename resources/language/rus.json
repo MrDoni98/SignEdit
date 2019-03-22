@@ -1,0 +1,42 @@
+{
+	"language-name": "Русский",
+	"language-selected": "Теперь выбран Русский.",
+
+	"message-edit-completed": "Редактирование таблички завершено.",
+	"message-copy-completed": "Копирование таблички завершено.",
+	"message-copy-remove": "Удаление выбранной копии данных завершено.",
+	"message-paste-completed": "Вставка завершена.",
+	"message-paste-error": "Вы не сделали никаких копий.",
+	"message-clear-completed": "Стерли текст, написанный на табличке.",
+	"message-clear-avoided": "Обработка была прервана.",
+
+	"form-select-title": "SignEdit",
+	"form-select-content": "Пожалуйста, выберите тип...",
+	"form-select-button-edit": "Изменить текст таблички",
+	"form-select-button-copy": "Копировать табличку",
+	"form-select-button-paste": "Вставить текст",
+	"form-select-button-clear": "Стереть весь текст",
+	"form-select-button-remove": "Удалить сохранённые данные",
+
+	"form-edit-title": "SignEdit > Редактировать",
+	"form-edit-line0": "Строка1:",
+	"form-edit-line1": "Строка2:",
+	"form-edit-line2": "Строка3:",
+	"form-edit-line3": "Строка4:",
+
+	"form-copy-title": "SignEdit > Копировать",
+	"form-copy-input-text": "Вы скопировали табличку.%nПожалуйста, введите её название.",
+	"form-copy-input-placeholder": "Ключевое слово",
+	"form-copy-label-text": "Название уже используется. Пожалуйста, введите другое",
+
+	"form-paste-title": "SignEdit > Вставить",
+	"form-paste-content": "Пожалуйста выберите",
+
+	"form-remove-title": "SignEdit > Удалить данные",
+	"form-remove-content": "Пожалуйста, выберите данные.",
+
+	"form-clear-title": "SignEdit > Стереть текст",
+	"form-clear-content": "Вы действительно хотите сделать её пустой?",
+	"form-clear-button1": "Да",
+	"form-clear-button2": "Нет"
+}
